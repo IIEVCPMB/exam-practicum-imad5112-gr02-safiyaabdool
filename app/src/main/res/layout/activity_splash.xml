@@ -8,8 +8,9 @@
     android:background="@drawable/campsite_logo_two">
 
     <ImageView
-        android:layout_width="185dp"
-        android:layout_height="23dp"
+        android:layout_width="255dp"
+        android:layout_height="237dp"
+        android:background="@drawable/camp_logo_three"
         android:src="" />
 
     <TextView
